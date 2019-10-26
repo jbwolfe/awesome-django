@@ -63,6 +63,9 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-solo](https://github.com/lazybird/django-solo/) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 * [sentry](https://github.com/getsentry/sentry/) - Sentry is a realtime, platform-agnostic error logging and aggregation platform.
 
+# Project template
+* [cookiecutter] (https://cookiecutter.readthedocs.io/en/latest/) Cookiecutter creates projects from project templates, e.g. Python package projects.
+
 # Projects
 
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
