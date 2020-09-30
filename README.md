@@ -68,6 +68,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src/) - Satchmo is an eCommerce framework created in Django which allows you to develop unique and robust online stores.
 * [django-cms](https://github.com/divio/django-cms/) - The easy-to-use and developer-friendly CMS
 * [mayan-edms](https://github.com/mayan-edms/mayan-edms/) - Open source, Django based DMS (document management system) with custom metadata indexing, file serving integration, OCR capabilities, document versioning and electronic signature verification.
+[Trip Packager](https://github.com/Rasam22/TripPackager) - This is a website to suggest you stuff you should carry when planning a trip based on location you are visiting. GOOGLE API is used to get weather conditions of that place and correspondingly give suggestions.
 
 # Contributing
 
