@@ -7,6 +7,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
     - [Asset Management](#asset-management)
     - [Debugging](#debugging)
     - [Fields](#fields)
+    - [Models](#models)
     - [Forms](#forms)
     - [Model Extensions](#model-extensions)
     - [RESTful API](#restful-api)
@@ -30,6 +31,10 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 * [django-picklefield](https://github.com/gintas/django-picklefield/) - A pickled object field for Django
 * [django-image-tools](https://github.com/bonsaistudio/django-image-tools/) - A package to handle images in Django.
 * [django-imagekit](https://github.com/matthewwithanm/django-imagekit/) - Automated image processing for Django. 
+
+## Models
+*Basically Django supports MVT or MVC type things where models does the important role in Django. It shows the database table contains which type of data like String, Int, etc.
+After design model we have to add this model in admin.py.Then just migrate the web app .
 
 ## Forms
 * [django-crispy-forms](https://github.com/maraujop/django-crispy-forms/) - The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
