@@ -1,4 +1,4 @@
-# Awesome Django
+# Here you found best Awesome Django link
 
 A curated list of awesome Django apps. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
