@@ -54,6 +54,7 @@ A curated list of awesome Django apps. Inspired by and based on [awesome-python]
 ## Other
 * [South](https://bitbucket.org/andrewgodwin/south/src/) - Django application to provide schema and data migrations.
 * [django-allauth](https://github.com/pennersr/django-allauth/) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+* [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - Simple JWT is a JSON Web Token authentication plugin for the Django REST Framework.
 * [django-braces](https://github.com/brack3t/django-braces/) - Reusable, generic mixins for Django.
 * [django-extensions](https://github.com/django-extensions/django-extensions/) - This is a repository for collecting global custom management extensions for the Django Framework.
 * [django-gravatar2](https://github.com/twaddington/django-gravatar/) - Essential Gravatar support for Django. Features helper methods, templatetags and a full test suite!
